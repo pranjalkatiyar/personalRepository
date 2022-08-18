@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranjal Katiyar</h1>
 <h3 align="center">A passionate frontend and backend web-developer ,currently learning flutter and exploring the different data science streams</h3>
 
-- 🔭 Recent front end [netflix-clone](https://github.com/pranjalkatiyar/netflix)
+- 🔭 Recent front end [vidflix](https://github.com/pranjalkatiyar/vidflix)
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Blockchain**
 
-- 💬 Ask me about **react and nodejs**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **pranjalkatiyar23@gmail.com**
 
