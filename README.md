@@ -2,15 +2,13 @@
 <h3 align="center">A passionate frontend and backend web-developer ,currently learning flutter and exploring the different data science streams</h3>
 
 - 🔭 Recent front end [vidflix](https://github.com/pranjalkatiyar/vidflix)
-
 - 🌱 I’m currently learning **Blockchain**
-
 - 💬 Ask me about **MERN**
-
 - 📫 How to reach me **pranjalkatiyar23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://pranjalkatiyar-portfolio.vercel.app/" target="blank"><img align="center" src="letter-p-svgrepo-com.svg" height="45" width="40" /></a>
 <a href="https://linkedin.com/in/pranjal-katiyar-3235971b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjal-katiyar-3235971b7" height="30" width="40" /></a>
 <a href="https://instagram.com/pranjalkatiyar21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranjalkatiyar21" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pranjalkatiyar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pranjalkatiyar" height="30" width="40" /></a>
@@ -24,7 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjalkatiyar&show_icons=true&locale=en&layout=compact" alt="pranjalkatiyar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjalkatiyar&show_icons=true&locale=en" alt="pranjalkatiyar" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjalkatiyar&show_icons=true&locale=en" alt="pranjalkatiyar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalkatiyar&" alt="pranjalkatiyar" /></p>
-
